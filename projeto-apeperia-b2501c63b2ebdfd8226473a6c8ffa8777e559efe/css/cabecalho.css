@@ -17,11 +17,11 @@
     position: absolute;
 }
 
-.cabecalho_logo {
+.cabecalho__logo {
     margin-bottom: 1rem;
 }
 
-.cabecalho_navegacao {
+.cabecalho__navegacao {
     text-align: center;
 }
 
